@@ -1,19 +1,11 @@
-# fondeaeloceano
+# Hackaton: Hack the Ocean
 
-## Project setup
-```
-npm install
-```
+Para este proyecto estaremos realizando un sitio web donde se pretende recaudar fondos para organizaciones con la finalidad de operar acciones para salvar el oceano y las especies que habitan en ello.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Miembros del equipo:
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Sergio López Loya
+* Fernando de la Fuente
+* Cristofer Alan Ángeles Soreano
+* Ramiro Zetina Suriano
+* Oscar Omar Gutiérrez López
