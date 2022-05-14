@@ -23,5 +23,17 @@
     "eslint": "^8.15.0",
     "jest": "^28.1.0",
     "prisma": "^3.14.0"
-  }
+  },
+  "description": "Para este proyecto estaremos realizando un sitio web donde se pretende recaudar fondos para organizaciones con la finalidad de operar acciones para salvar el oceano y las especies que habitan en ello.",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lfer1111/Fondeaeloceano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lfer1111/Fondeaeloceano/issues"
+  },
+  "homepage": "https://github.com/Lfer1111/Fondeaeloceano#readme"
 }
